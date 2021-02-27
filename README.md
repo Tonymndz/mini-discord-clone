@@ -1,7 +1,6 @@
-
-# Best Budget Phones Personal Sites
+# Discord Clone Site
 ### Live Demo:
-  - <a href="http://under-120.bestbudgetphones.technology/">Best Budget Phones under $60, $100, $120</a>
+  - <a href="https://tonymndz.github.io/discord-clone/">Discord Clone</a>
 
 ## Available Scripts
 
