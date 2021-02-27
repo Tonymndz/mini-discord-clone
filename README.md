@@ -1,7 +1,10 @@
 # Discord Clone Site
 ### Live Demo:
   - <a href="https://tonymndz.github.io/discord-clone/">Discord Clone</a>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3cb727f60360506e54bc5a0168333ccf402e8974
 
 ## Available Scripts
 
