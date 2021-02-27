@@ -1,0 +1,41 @@
+.Message {
+  display: flex;
+  align-items: center;
+  padding: 3px 22px 20px 20px;
+  color: white;
+}
+
+.Message_info {
+  margin-left: 15px;
+}
+
+.Message_timestamp {
+  color: #6f6f77;
+  margin-left: 10px;
+  font-size: 11px;
+}
+
+.Message_info > h4 {
+  display: inline;
+  color: #fffff3;
+  font-weight: 600;
+  line-height: 1.375rem;
+}
+
+.Message_info > p {
+  overflow: hidden;
+  line-height: 1.375rem;
+  white-space: break-spaces;
+  word-wrap: break-word;
+  color: #d6d7d9;
+}
+
+.Message p img {
+  margin-top: 4px;
+  height: 230px;
+}
+
+.Message .MuiAvatar-root {
+  align-self: flex-start;
+  margin-top: 10px;
+}

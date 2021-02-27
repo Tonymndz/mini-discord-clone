@@ -1,0 +1,25 @@
+.MuiPopover-root ul {
+  background-color: #27282b;
+  border: none;
+  padding: 0;
+}
+
+.EmojiPopUp {
+  margin-left: 8px;
+}
+
+.emoji-mart-dark .emoji-mart-category-label span {
+  background-color: #292a2e;
+}
+
+.emoji-mart-dark .emoji-mart-search input {
+  background-color: #202225;
+  color: #9a9faa;
+  border-color: #202225;
+}
+
+
+.EmojiPopUp:hover {
+  color: white;
+  cursor: pointer;
+}

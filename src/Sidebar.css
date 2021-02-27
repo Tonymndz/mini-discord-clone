@@ -1,0 +1,124 @@
+.Sidebar {
+  display: flex;
+  flex-direction: column;
+  /* flex: 0.25; */
+  height: 100vh;
+  background-color: #2f3136;
+}
+
+.Sidebar_top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: 20px;
+  color: white;
+  border-bottom: 3px solid #26282c;
+  z-index: 3;
+  position: relative;
+  height: 25px;
+}
+  
+.Sidebar_channels {
+  flex: 1;
+}
+  
+.Sidebar_addChannel {
+  cursor: pointer;
+}
+
+.Sidebar_addChannel:hover {
+  color: white;
+}
+
+.Sidebar_channelsHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px 0px 10px;
+  background-color: #2f3135;
+  color: gray;
+}
+
+.Sidebar_header {
+  display: flex;
+  align-items: center;
+  color: #828b8d;
+}
+
+.Sidebar_header:hover {
+  color: #dcddde;
+}
+
+
+/* .Sidebar_voice,*/ .Sidebar_profile { /* #35383e */ 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #b9bbbe;
+  background-color: #292b2f;
+  padding: 13px 6px 11px 8px;
+}
+
+.Sidebar_profileIcons > .MuiSvgIcon-root:hover {
+  background-color: #35383e;
+  border-radius: 4px;
+}
+
+.Sidebar_profileInfo {
+  display: flex;
+  color: white;
+}
+
+.Sidebar_profileIcons > .MuiSvgIcon-root {
+  padding: 3px;
+  font-size: 21px;
+  margin-right: 1px;
+}
+
+.Sidebar_profileInfo .MuiAvatar-img, .Sidebar_profileInfo .MuiAvatar-root {
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+}
+
+.Sidebar_profileDescription {
+  margin-left: 8px;
+  font-size: 11px;
+  line-height: 16px;
+  overflow: hidden;
+  color: white;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-weight: 600;
+}
+
+#profile_id {
+  color: #acafb3;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+/*
+.Sidebar_voiceInfo {
+  flex: 1;
+  padding: 10px;
+}
+
+.Sidebar_voiceIcon {
+  color: #4fb185;
+}
+
+.Sidebar_voiceInfo > h3 {
+  color: #4fb185;
+}
+
+.Sidebar_voiceInfo > p {
+  font-size: smaller;
+}
+
+.Sidebar_voiceIcons > .MuiSvgIcon-root {
+  padding: 10px;
+} */
+
+

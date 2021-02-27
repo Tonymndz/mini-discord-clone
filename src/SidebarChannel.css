@@ -1,0 +1,29 @@
+.SidebarChannel-unactive > h4, .SidebarChannel-active > h4 {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  padding: 1px 0px 1px 15px;
+  background-color: #2f3135;
+  color: #828b8d;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 2px 8px;
+  font-weight: 550;
+}
+
+
+.SidebarChannel-unactive:hover > h4 {
+  color: #dcddde;
+  background-color: #34363c; 
+}
+
+.SidebarChannel-active > h4 {
+  color: white;
+  background-color: #393c42; 
+}
+
+.SidebarChannel_hash {
+  color: #72767d;
+  font-size: 23px;
+  padding-right: 7px;
+}
