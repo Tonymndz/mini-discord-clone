@@ -37,12 +37,12 @@ function App() {
 
   useEffect(() => {
     (async () => {
-      const randomImage = await (await axios.get(IMAGE_API_URL)).request.responseURL
+      const randomImage = (await axios.get(IMAGE_API_URL)).request.responseURL
       console.log(randomImage)
       auth.signInAnonymously().then(guest => { 
         dispatch(login({
           uid: guest.user.uid,
-          photo: randomImage, // Faker instead gives link not random img link........
+          photo: randomImage,
           email: faker.internet.email(),
           displayName: faker.name.firstName() 
         }))
@@ -62,16 +62,3 @@ function App() {
 }
 
 export default App;
-
-/* 
-
-Emojis:
-  o All we need is an api that gives us all the emojis
-  o But in the state it will be :cry:
-  o Once picked the emoji will appear in their text as a png, by using split and replacing any word with :: as its png that is actually an img
-  o What happens if they try to delete it
-
-GIFS:
-  o GIPHY
-
-*/
