@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/discord-clone/static/css/main.d9e5b39e.chunk.css",
-    "main.js": "/discord-clone/static/js/main.9c767627.chunk.js",
-    "main.js.map": "/discord-clone/static/js/main.9c767627.chunk.js.map",
+    "main.js": "/discord-clone/static/js/main.0e75b361.chunk.js",
+    "main.js.map": "/discord-clone/static/js/main.0e75b361.chunk.js.map",
     "runtime-main.js": "/discord-clone/static/js/runtime-main.e204eb66.js",
     "runtime-main.js.map": "/discord-clone/static/js/runtime-main.e204eb66.js.map",
     "static/css/2.44e6b886.chunk.css": "/discord-clone/static/css/2.44e6b886.chunk.css",
-    "static/js/2.d8c273c4.chunk.js": "/discord-clone/static/js/2.d8c273c4.chunk.js",
-    "static/js/2.d8c273c4.chunk.js.map": "/discord-clone/static/js/2.d8c273c4.chunk.js.map",
+    "static/js/2.33fe63dd.chunk.js": "/discord-clone/static/js/2.33fe63dd.chunk.js",
+    "static/js/2.33fe63dd.chunk.js.map": "/discord-clone/static/js/2.33fe63dd.chunk.js.map",
     "index.html": "/discord-clone/index.html",
     "static/css/2.44e6b886.chunk.css.map": "/discord-clone/static/css/2.44e6b886.chunk.css.map",
     "static/css/main.d9e5b39e.chunk.css.map": "/discord-clone/static/css/main.d9e5b39e.chunk.css.map",
-    "static/js/2.d8c273c4.chunk.js.LICENSE.txt": "/discord-clone/static/js/2.d8c273c4.chunk.js.LICENSE.txt"
+    "static/js/2.33fe63dd.chunk.js.LICENSE.txt": "/discord-clone/static/js/2.33fe63dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e204eb66.js",
     "static/css/2.44e6b886.chunk.css",
-    "static/js/2.d8c273c4.chunk.js",
+    "static/js/2.33fe63dd.chunk.js",
     "static/css/main.d9e5b39e.chunk.css",
-    "static/js/main.9c767627.chunk.js"
+    "static/js/main.0e75b361.chunk.js"
   ]
 }
