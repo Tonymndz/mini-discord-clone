@@ -1,6 +1,6 @@
 {
-  "name": "discord-clone",
-  "homepage": "http://Tonymndz.github.io/discord-clone",
+  "name": "mini-discord-clone",
+  "homepage": "http://Tonymndz.github.io/mini-discord-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
