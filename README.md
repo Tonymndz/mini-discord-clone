@@ -1,6 +1,7 @@
 # Mini-Discord Clone Site
 ### Live Demo:
-  - <a href="https://tonymndz.github.io/mini-discord-clone/">Discord Clone</a>
+  - <a href="https://tonymndz.github.io/mini-discord-clone/">Mini-Discord Clone</a>
+  <img align="" src="https://i.ibb.co/3TW072d/Mini-Discord-Clone.png">
 
 ## Available Scripts
 
