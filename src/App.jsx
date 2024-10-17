@@ -10,7 +10,7 @@ import { login, logout } from './features/userSlice';
 import faker from 'faker';
 import axios from 'axios';
 
-const IMAGE_API_URL = "https://source.unsplash.com/random"
+const IMAGE_API_URL = "https://unsplash.it/900/900?random"
 
 function App() {
   const dispatch = useDispatch();
